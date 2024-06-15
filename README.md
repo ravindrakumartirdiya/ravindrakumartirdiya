@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ravindrakumartirdiya
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on frontend 😊🤞
+- 👋 Hi, I’m Ravindra tirdiya
+- 👀 I’m am a MERN STACK DEVELOPER
+- 💻 Computer science engineer 2023 passout
 - 📫 How to reach me ravindratirdiya.22@gmail.com
 
